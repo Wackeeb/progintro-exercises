@@ -13,4 +13,8 @@ Work and emphasis (2 directories now)
 
 Commit pull test
 
+<<<<<<< HEAD
 Merge
+=======
+Fetch
+>>>>>>> 7c19a2761da5df4879e38ca3760b629b0b762ed6
